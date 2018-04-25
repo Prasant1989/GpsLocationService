@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GpsLocationService</string>
+    <string name="google_maps_key">AIzaSyC83IU62LJcw3U95fLG2HUXXvKDbK04NfQ</string>
+</resources>
